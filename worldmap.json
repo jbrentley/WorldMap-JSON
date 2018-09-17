@@ -1,4 +1,3 @@
-myCountryCallback(
 [
   {
     "key": "United Kingdom",
@@ -36,4 +35,4 @@ myCountryCallback(
     "longitude": 8.227512,
     "name": "Switzerland"
   }
-]);
+];
