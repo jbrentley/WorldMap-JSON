@@ -1494,10 +1494,10 @@
     "key": "South Africa"
   },
   {
-    "name1": "ZM",
+    "key": "Zambia",
     "latitude": -13.133897,
     "longitude": 27.849332,
-    "key": "Zambia"
+    "key2": "Zambia"
   },
   {
     "name1": "ZW",
